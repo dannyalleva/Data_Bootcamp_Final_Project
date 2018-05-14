@@ -11,3 +11,6 @@ And I understand that:
 Submitting the same or substantially similar work in multiple courses, either in the same semester or in a different semester, without the express approval of all instructors is strictly forbidden. I acknowledge that a failure to abide by NYU Stern Honor Code will result in a failing grade for the project and course.
 
 Project Description:
+
+This project analyzes the relationship between Major League Baseball team statistics and the shape and qualities of their stadiums.  This project takes the total statistics accumulated by each team from the years 1998-2018 and examines the relationship between these statistics and the dimensions of the team's home stadium.  Since each team plays most of its games in its home stadium, variations in field dimensions  influenced the results seen by each team over the 20 year period.  This project also anayzes the relationship between altitude of the stadiums and team stats, given that games played at higher altitude will see batted balls travel further, since the air is thinner at higher altitudes.  Finally, the project also examines what happened to the Yankees and Mets before and after they each began to play in a newly built stadium.
+
